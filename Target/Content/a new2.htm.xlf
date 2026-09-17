@@ -5,14 +5,14 @@
   MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
-    original="Topic.htm"
+    original="a new2.htm"
     source-language="en-us"
     MadCap:file-filter=""
     datatype="xhtml"
     target-language="es">
     <header>
       <skl><external-file
-          href="Topic.htm.skl" /></skl>
+          href="a new2.htm.skl" /></skl>
       <phase-group>
         <phase
           phase-name="translation"
@@ -45,14 +45,14 @@
     <body><trans-unit
         id="1"
         restype="x-xml-h1"
-        phase-name="pretrans"><source>Topic Title</source><seg-source><mrk
+        phase-name="pretrans"><source>a new2</source><seg-source><mrk
             mtype="seg"
-            mid="1">Topic Title</mrk></seg-source><target
+            mid="1">a new2</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">Topic Title</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="0">new</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
         phase-name="pretrans"><source>Delete this text and replace it with your own content.</source><seg-source><mrk
@@ -62,6 +62,6 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">Delete this text and replace it with your own content.</mrk></target></trans-unit></body>
+            MadCap:matchPercent="0">sdsd</mrk></target></trans-unit></body>
   </file>
 </xliff>
